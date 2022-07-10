@@ -12,5 +12,5 @@ Analyzing dialogue from each episode’s script, by character and by season, wha
 The [data](https://github.com/atd124/Did-you-ever-notice/blob/main/data/Seinfeld_scripts.csv), posted and downloaded as a csv on [kaggle.com](https://www.kaggle.com/datasets/thec03u5/seinfeld-chronicles), was originally scraped from the fan website [seinology.com](http://www.seinology.com/). 
 
 ## Analysis
-Intial filtering, exploration, and analysis, as a % of words by season and character, done in this [notebook](https://github.com/atd124/Did-you-ever-notice/blob/main/analysis/Seinfeld%20Script%20Analysis.ipynb) with the pandas Python library.  Additional cleaning, analysis, and chart mockups done in this [Excel file](https://github.com/atd124/Did-you-ever-notice/blob/main/data/Seinfeld_scripts.csv).
+Intial filtering, exploration, and analysis, as a percentage of words by season and character, done in this [notebook](https://github.com/atd124/Did-you-ever-notice/blob/main/analysis/Seinfeld%20Script%20Analysis.ipynb) with the pandas Python library.  Additional cleaning, analysis, and chart mockups done in this [Excel file](https://github.com/atd124/Did-you-ever-notice/blob/main/analysis/Seinfeld%20Script%20Analysis%20-%20PIVOT%20TABLES.xlsx).
 
