@@ -12,5 +12,5 @@ Analyzing dialogue from each episode’s script, by character and by season, wha
 The data, posted and downloaded as a csv on [kaggle.com](https://www.kaggle.com/datasets/thec03u5/seinfeld-chronicles), was originally scraped from the fan website [seinology.com](http://www.seinology.com/). 
 
 ## Analysis
-Intial filtering, exploration, and analysis, as a % of words by season and character, in python.  Additional cleaning, analysis, and chart mockups done in Excel.
+Intial filtering, exploration, and analysis, as a % of words by season and character, in [python](https://github.com/atd124/Did-you-ever-notice/tree/main/data).  Additional cleaning, analysis, and chart mockups done in Excel.
 
