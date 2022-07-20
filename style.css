@@ -168,6 +168,21 @@ iframe {
     }
 }
 
+
+.blockquote {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Franklin-Bold";
+
+    @media (min-width: @screen-sm-min) {
+      font-size: 28px;
+    }  
+  }
+
+
 /* html, body {
     margin: 0;
     background: beige;
